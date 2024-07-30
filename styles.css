@@ -14,7 +14,7 @@ body {
 .container {
     width: 80%; /* Ajustar el contenedor al 80% del ancho de la pantalla */
     max-width: 1200px; /* Ancho máximo para pantallas grandes */
-    background-color: #ffffff;
+    background-color:rgb(163, 135, 218);
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -34,7 +34,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #6a1b9a;
+    color: #370754;
 }
 
 .input-area {
@@ -93,7 +93,7 @@ textarea {
     display: flex;
     flex-direction: column;
     align-items: center; /* Centra el contenido dentro de la tarjeta */
-    margin-left: 10px; /* Margen para separar de los bordes */
+    margin: 10px;
 }
 
 .card-img-top {
@@ -109,7 +109,7 @@ textarea {
 footer {
     width: 100%;
     text-align: center;
-    background-color: #6a1b9a;
+    background-color: #48116a;
     color: #ffffff;
     padding: 10px 0;
     position: fixed;
